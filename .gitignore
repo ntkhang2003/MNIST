@@ -1,0 +1,4 @@
+/venv
+Procfile
+wsgi.py
+__pycache__
